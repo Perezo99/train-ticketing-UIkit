@@ -11,7 +11,7 @@ Star⭐ the repo if you like what you see😉.
 
 
 ## 📸 ScreenShots
-![Screenshot_20230304-083535](https://user-images.githubusercontent.com/49396765/222897516-855f1f78-2c1b-42fd-8f12-26ae50d5834e.png)
-![Screenshot_20230304-083617](https://user-images.githubusercontent.com/49396765/222897524-cc96acce-1a1b-4952-8705-fec4e4213541.png)
-![Screenshot_20230304-083646](https://user-images.githubusercontent.com/49396765/222897531-8c78930b-ffab-4892-a934-0f0073f49e73.png)
-![Screenshot_20230304-085917](https://user-images.githubusercontent.com/49396765/222897534-8958eddc-2e6f-43b7-9576-735e1ad5fb44.png)
+![Screenshot_20230304-083535](https://user-images.githubusercontent.com/49396765/222897516-855f1f78-2c1b-42fd-8f12-26ae50d5834e.png | width=400 )
+![Screenshot_20230304-083617](https://user-images.githubusercontent.com/49396765/222897524-cc96acce-1a1b-4952-8705-fec4e4213541.png | width=400)
+![Screenshot_20230304-083646](https://user-images.githubusercontent.com/49396765/222897531-8c78930b-ffab-4892-a934-0f0073f49e73.png | width=400)
+![Screenshot_20230304-085917](https://user-images.githubusercontent.com/49396765/222897534-8958eddc-2e6f-43b7-9576-735e1ad5fb44.png | width=400)
