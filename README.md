@@ -1,6 +1,5 @@
 # 🚆Train Ticketing App Concept
 
-A new Flutter project.
 Flutter representation of a Train ticketing app concept.
 
 Star⭐ the repo if you like what you see😉.
