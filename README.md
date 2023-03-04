@@ -1,16 +1,18 @@
-# trainbooking
+#🚆Train Ticketing App Concept
 
 A new Flutter project.
+Flutter representation of a Train ticketing app concept.
 
-## Getting Started
+Star⭐ the repo if you like what you see😉.
 
-This project is a starting point for a Flutter application.
+## 💡 Requirements
+* An Operating System (ie. MacOS X, Linux, Windows)
+* An IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 ScreenShots
+![Screenshot_20230304-083535](https://user-images.githubusercontent.com/49396765/222897516-855f1f78-2c1b-42fd-8f12-26ae50d5834e.png)
+![Screenshot_20230304-083617](https://user-images.githubusercontent.com/49396765/222897524-cc96acce-1a1b-4952-8705-fec4e4213541.png)
+![Screenshot_20230304-083646](https://user-images.githubusercontent.com/49396765/222897531-8c78930b-ffab-4892-a934-0f0073f49e73.png)
+![Screenshot_20230304-085917](https://user-images.githubusercontent.com/49396765/222897534-8958eddc-2e6f-43b7-9576-735e1ad5fb44.png)
